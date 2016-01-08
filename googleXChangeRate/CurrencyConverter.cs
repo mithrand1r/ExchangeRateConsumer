@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using System.Text.RegularExpressions;
+using System.Runtime.InteropServices;
 
  
 namespace CurrencyConverter
