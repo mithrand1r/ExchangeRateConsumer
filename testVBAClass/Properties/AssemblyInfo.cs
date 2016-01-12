@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("googleXChangeRate")]
+[assembly: AssemblyTitle("testVBAClass")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("googleXChangeRate")]
+[assembly: AssemblyProduct("testVBAClass")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(true)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dce3ee9b-5143-4766-b77e-876696cfb2d7")]
+[assembly: Guid("435785d3-bcd6-4cde-8592-eefc377f469f")]
 
 // Version information for an assembly consists of the following four values:
 //
