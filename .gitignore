@@ -1,3 +1,4 @@
-googleXChangeRate/obj/Debug/
 googleXChangeRate/obj/
 testVBAClass/obj/
+#Nuget 
+packages/ 
